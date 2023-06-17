@@ -25,6 +25,6 @@ function getUsersNamesInAgeRange(users, gender) {
       return (acc / arr.length);
     }
     return acc;
-    });
-    return result;
+  });
+  return result;
 }
